@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+hello manu ()  #frm dev2
+{
+	public static void main()    #frm dev2
+=======
+hello manu () #frm dev1
+{
+	public static void main()   #frm dev1
+>>>>>>> 7f00822db671d23d6a3e0e37289f32cf802614fd
+	{
+		system.out.println("hello frm dev1")
+	}
+} #frm dev2
