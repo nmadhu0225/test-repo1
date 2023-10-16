@@ -1,13 +1,12 @@
-hello nagaraju 
 <<<<<<< HEAD
+hello nagaraju             #user2
 { #frm dev2
-        hw r u
-} #frm dev2	
-mumbai  #frm dev2
+        hw r u             #user2
 =======
-{                #frm dev1
-        hw r u
-}	         #frm dev1  
-mumbai
-                 #frm dev1
->>>>>>> 62f6d060978fec4e9e9b3e1172f180d3057fac90
+hello nagaraju#user1 
+{ #frm dev2
+        hw r u#user1
+>>>>>>> 82263e603cc53eb38f31f2e7a1c62842f505275a
+} #frm dev2
+mumbai  #frm dev2
+

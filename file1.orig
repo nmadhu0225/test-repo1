@@ -1,13 +1,12 @@
-hello manohar
 <<<<<<< HEAD
-{ #frm dev2
-     hw r u
+hello manohar                 #user2
+
+     hw r u                   #user2
+=======
+hello manohar#user1
+           
+     hw r u#user1
+>>>>>>> 82263e603cc53eb38f31f2e7a1c62842f505275a
 } #frm dev2
 hyderabad  #frm dev2
-=======
-{              #frm dev1
-     hw r u
-}              #frm dev1
-hyderabad
-               #frm dev1
->>>>>>> 62f6d060978fec4e9e9b3e1172f180d3057fac90
+
