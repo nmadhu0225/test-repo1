@@ -1,0 +1,13 @@
+hello manohar
+<<<<<<< HEAD
+{ #frm dev2
+     hw r u
+} #frm dev2
+hyderabad  #frm dev2
+=======
+{              #frm dev1
+     hw r u
+}              #frm dev1
+hyderabad
+               #frm dev1
+>>>>>>> 62f6d060978fec4e9e9b3e1172f180d3057fac90

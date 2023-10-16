@@ -1,0 +1,13 @@
+hello nagaraju 
+<<<<<<< HEAD
+{ #frm dev2
+        hw r u
+} #frm dev2	
+mumbai  #frm dev2
+=======
+{                #frm dev1
+        hw r u
+}	         #frm dev1  
+mumbai
+                 #frm dev1
+>>>>>>> 62f6d060978fec4e9e9b3e1172f180d3057fac90
